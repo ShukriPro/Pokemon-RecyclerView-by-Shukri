@@ -3,7 +3,7 @@ package com.example.sdlt04;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-
+//created by S hukri
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -70,3 +70,21 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewInter
         startActivity(intent);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//created by S hukri
